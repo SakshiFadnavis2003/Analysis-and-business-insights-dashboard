@@ -1,4 +1,3 @@
-```markdown
 # Customer Behavior Analysis and Business Insights Dashboard
 
 ## Overview
@@ -17,14 +16,14 @@ This repository hosts the code and data for creating a comprehensive dashboard t
 - Relationship between items purchased and satisfaction levels.
 
 ## Getting Started
-### Prerequisites
+## Prerequisites
 - Python 3.8 or above
 - Jupyter Notebook
 - pandas
 - matplotlib
 - seaborn
 
-### Installation
+## Installation
 1. Clone the repository:
    ```sh
    git clone https://github.com/SakshiFadnavis2003/customer-behavior-dashboard.git
@@ -34,7 +33,7 @@ This repository hosts the code and data for creating a comprehensive dashboard t
    cd customer-behavior-dashboard
    ```
 
-### Usage
+## Usage
 1. Open the Jupyter Notebook:
    ```sh
    jupyter notebook
